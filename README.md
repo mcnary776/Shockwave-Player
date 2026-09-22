@@ -218,4 +218,4 @@ Shockwave Player is available as a complete free version, with all features and 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-21 21:23:30 UTC
+**Last updated:** 2026-09-22 00:23:06 UTC
